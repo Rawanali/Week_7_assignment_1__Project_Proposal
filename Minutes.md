@@ -3,7 +3,7 @@
 # Minutes - Suggestions For Improvement: 
 
 * Add more tool for Evaluting our Model, to be more accuracy
-* Add figure to display the model result. 
+* Add visualisation regression to display the model result. 
 
 
 ## The most important Question is:
